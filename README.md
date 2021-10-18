@@ -1,5 +1,5 @@
-#**PEPlist**
-##**Property List manipulation library with Php**
+#PEPlist
+##Property List manipulation library with Php
  ** **
 
 

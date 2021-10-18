@@ -60,5 +60,5 @@ __Install with Composer__
 
 ** **
 
-###License
+### License
 > **MIT**

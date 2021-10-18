@@ -1,5 +1,6 @@
 {
   "name": "alaa-hany/peplist",
+  "version" : "1.0.0",
   "description": "Property List manipulation library with Php",
   "keywords": [
     "plist",
@@ -17,6 +18,7 @@
     "issues": "https://github.com/Alaa-Hany/PEPlist/issues",
     "source": "https://github.com/Alaa-Hany/PEPlist"
   },
+  "minimum-stability" : "stable" ,
   "type": "library",
   "license": "MIT",
   "autoload": {

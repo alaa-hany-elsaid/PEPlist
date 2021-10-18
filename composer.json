@@ -1,0 +1,41 @@
+{
+  "name": "alaa-hany/peplist",
+  "version" : "1.0",
+  "description": "Property List manipulation library with Php",
+  "keywords": [
+    "plist",
+    "php",
+    "apple",
+    "plist editor"
+  ],
+  "homepage" : "https://github.com/Alaa-Hany/PEPlist",
+  "support": {
+    "issues": "https://github.com/Alaa-Hany/PEPlist/issues",
+    "source": "https://github.com/Alaa-Hany/PEPlist"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable" : true ,
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Alaa\\PEPlist\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Alaa-Hany",
+      "email": "elboray.alaa1@icloud.com",
+      "homepage": "https://github.com/Alaa-Hany"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-dom": "*",
+    "tightenco/collect": "^8.34",
+    "shanethehat/pretty-xml": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}

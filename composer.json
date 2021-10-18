@@ -7,6 +7,12 @@
     "apple",
     "plist editor"
   ],
+  "homepage" : "https://github.com/Alaa-Hany/PEPlist",
+  "authors": [{
+    "name": "Alaa Hany",
+    "email": "elboray.alaa1@gmail.com",
+    "homepage": "https://github.com/Alaa-Hany"
+  }],
   "type": "library",
   "license": "MIT",
   "autoload": {

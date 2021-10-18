@@ -1,6 +1,6 @@
 {
   "name": "alaa-hany/peplist",
-  "version" : "1.0.0",
+  "version" : "1.0",
   "description": "Property List manipulation library with Php",
   "keywords": [
     "plist",

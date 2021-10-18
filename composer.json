@@ -30,7 +30,6 @@
       "email": "elboray.alaa1@icloud.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": ">=7.4",
     "ext-dom": "*",

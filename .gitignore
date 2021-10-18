@@ -1,0 +1,9 @@
+vendor
+\.project
+.settings
+\.buildpath
+tests
+.idea
+index.php
+test.plist
+composer.lock

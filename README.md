@@ -9,7 +9,7 @@
 __Install with Composer__
 
 ```Bash
-    composer require alaa/peplist
+    composer require alaa-hany/peplist
 ```
 
 ** **

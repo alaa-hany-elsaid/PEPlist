@@ -13,7 +13,8 @@
     "issues": "https://github.com/Alaa-Hany/PEPlist/issues",
     "source": "https://github.com/Alaa-Hany/PEPlist"
   },
-  "minimum-stability" : "stable" ,
+  "minimum-stability": "dev",
+  "prefer-stable" : true ,
   "type": "library",
   "license": "MIT",
   "autoload": {

@@ -9,11 +9,6 @@
     "plist editor"
   ],
   "homepage" : "https://github.com/Alaa-Hany/PEPlist",
-  "authors": [{
-    "name": "Alaa Hany",
-    "email": "elboray.alaa1@gmail.com",
-    "homepage": "https://github.com/Alaa-Hany"
-  }],
   "support": {
     "issues": "https://github.com/Alaa-Hany/PEPlist/issues",
     "source": "https://github.com/Alaa-Hany/PEPlist"
@@ -29,7 +24,8 @@
   "authors": [
     {
       "name": "Alaa-Hany",
-      "email": "elboray.alaa1@icloud.com"
+      "email": "elboray.alaa1@icloud.com",
+      "homepage": "https://github.com/Alaa-Hany"
     }
   ],
   "require": {
